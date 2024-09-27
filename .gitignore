@@ -1,0 +1,16 @@
+
+# Data
+**/*.parquet
+**/*.csv
+data/**
+input/**
+**/.cachedObjects/*
+
+# env variables 
+.env
+
+# notebooks cache 
+**/.ipynb_checkpoints
+
+# python cache 
+**/__pycache__/*
